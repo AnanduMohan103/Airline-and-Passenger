@@ -9,6 +9,7 @@ export class AirlineComponent implements OnInit {
 
   constructor() { }
 
+  airData=[]
   ngOnInit(): void {
   }
 
